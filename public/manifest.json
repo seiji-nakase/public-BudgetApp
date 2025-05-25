@@ -1,0 +1,22 @@
+{
+    "short_name": "Budget",
+    "name": "家計簿",
+    "icons": [
+      {
+        "src": "/cat_192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/cat_512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#ffffff"
+  }
+  
